@@ -99,8 +99,7 @@ Provide a number for the shift value: 1
 bcd
 ```
 
-Decrypting DECRYPT_this 123 with shift 99 to bcd
-
+Decrypting DECRYPT_this 123 with shift 99 to IJHWDUY_ymnx 123
 ``` text
 python project.py
 Provide the text to use:
