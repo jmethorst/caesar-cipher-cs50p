@@ -62,11 +62,11 @@ A list of libaries used in this project and why they are used
   - string.ascii_lowerscase stores all lowercase letter in the alphabet
   - used in project.py caesar function
   - refer then [Python documentation](https://docs.python.org/3/library/string.html#string.ascii_lowercase) for more information
-- pytest - unit testing framework for python (pip install pytest)
+- pytest - unit testing framework for python - pip install pytest
   - pytest.raises(Exception) is used to test condition returns the Exception
   - used in test_project.py for the exceptions TypeError,ValueError and SystemExit
   - refer the [pytest documentation](https://docs.pytest.org/en/latest/#) for more information
-- mypy - type hint validation for python (pip install mypy)
+- mypy - type hint validation for python - pip install mypy
   - command mypy *filename* is used to validate type hinting
   - used on project.py with mypy project.py
   - refer the [mypy documentation](https://mypy.readthedocs.io/en/stable/) for more information
