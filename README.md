@@ -17,7 +17,7 @@ here follows an in depth view of the project
 - project.py : The main program file
 - test_project.py : unti test of project.py
 - requirements.txt : list of all pip installed libraries
-- LICENSE.txt : License used
+- LICENSE : License used
 - README.md : detailed overview of project
 
 ### Project
